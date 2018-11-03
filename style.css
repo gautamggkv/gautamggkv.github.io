@@ -1,0 +1,19 @@
+h1{
+	color: Blue;
+	text-align: center;
+}
+.Family{
+	color: Red;
+	padding:10px;
+	background-color: Black;
+}
+
+.InLaws{
+	color: Purple;
+	margin: 10px 20px;
+	background-color: Green;
+}
+
+#New{
+	font-size: 25px;
+}
